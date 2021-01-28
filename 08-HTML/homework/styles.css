@@ -1,0 +1,17 @@
+h1{
+	color: indigo;
+}
+img{
+	width: 400px;
+}
+#thirdDiv{
+	width: 500px;
+	height: 600px;
+	background:beige;
+	padding: 50px;
+	border: 4px solid thistle;
+}
+#spanID{
+	font-size: 18px;
+	margin: 50px;
+}
